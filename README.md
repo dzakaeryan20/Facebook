@@ -3,8 +3,8 @@ FacebookEndpoint
 
  ## Install
 
-    $ git clone https://github.com/dzakaeryan20/FacebookEndpoint.git
-    $ cd FacebookEndpoint
+    $ git clone https://github.com/dzakaeryan20/Facebook.git
+    $ cd Facebook
     $ npm install
     $ npm start
     $ npm test
